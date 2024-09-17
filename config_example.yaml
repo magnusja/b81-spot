@@ -1,0 +1,5 @@
+event_id: "UUID you find it in the URL"         
+user_id: "UUID"          
+authorization_token: "Bearer token without the Bearer"      
+retry_delay: 0.3                                          
+debug: false                                               
